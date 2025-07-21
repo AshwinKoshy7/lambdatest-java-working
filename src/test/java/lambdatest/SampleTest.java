@@ -12,7 +12,7 @@ import java.time.Duration;
 import java.util.HashMap;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-public class Sample_Test {
+public class SampleTest {
 
     private RemoteWebDriver driver;
     private WebDriverWait wait;
